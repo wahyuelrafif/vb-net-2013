@@ -1,2 +1,12 @@
 C:\Users\wachjoe\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
 D:\myGit\vb-net-2013\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
