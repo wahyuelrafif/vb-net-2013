@@ -1,0 +1,2 @@
+C:\Users\wachjoe\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\myGit\vb-net-2013\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
